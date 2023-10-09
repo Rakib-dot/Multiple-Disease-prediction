@@ -4,3 +4,4 @@ The Multiple Disease Prediction Web App is a powerful tool designed to assist us
 <li>Streamlit</li>
 <li>Jupyter notebook</li>
 <li>VS Code</li>
+<li>python</li>
